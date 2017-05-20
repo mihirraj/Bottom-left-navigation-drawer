@@ -1,0 +1,65 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\mihir\Downloads\NavigationDrawer\app\src\main\AndroidManifest.xml:17:1-40:12
+	package
+		ADDED from C:\Users\mihir\Downloads\NavigationDrawer\app\src\main\AndroidManifest.xml:18:5-58
+		INJECTED from C:\Users\mihir\Downloads\NavigationDrawer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mihir\Downloads\NavigationDrawer\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\mihir\Downloads\NavigationDrawer\app\src\main\AndroidManifest.xml:20:5-30
+		INJECTED from C:\Users\mihir\Downloads\NavigationDrawer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mihir\Downloads\NavigationDrawer\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\mihir\Downloads\NavigationDrawer\app\src\main\AndroidManifest.xml:19:5-28
+		INJECTED from C:\Users\mihir\Downloads\NavigationDrawer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mihir\Downloads\NavigationDrawer\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\mihir\Downloads\NavigationDrawer\app\src\main\AndroidManifest.xml:17:11-69
+uses-sdk
+ADDED from C:\Users\mihir\Downloads\NavigationDrawer\app\src\main\AndroidManifest.xml:22:5-74
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\mihir\.android\build-cache\1ae0680d4cb02fb891fa1e32141432db0f13d6f1\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\mihir\.android\build-cache\f83cfe1cf3bb41ad4bddf95d4a246070a0ba3287\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\mihir\.android\build-cache\f32b4eabcc1b9c8356c64cc6897fd5768db1b695\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\mihir\.android\build-cache\6f2d7416b2b3a1539807a9b02c6d6cf60d344ef6\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\mihir\.android\build-cache\2d7093c546c0aef91169d414df973e7c732bb4f1\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\mihir\.android\build-cache\50d982552e2f4c02fffbfe6beee5f90a91eedb0e\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.0.1] C:\Users\mihir\.android\build-cache\1ae0680d4cb02fb891fa1e32141432db0f13d6f1\output\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from C:\Users\mihir\Downloads\NavigationDrawer\app\src\main\AndroidManifest.xml:22:42-71
+		INJECTED from C:\Users\mihir\Downloads\NavigationDrawer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mihir\Downloads\NavigationDrawer\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\mihir\Downloads\NavigationDrawer\app\src\main\AndroidManifest.xml:22:15-41
+		INJECTED from C:\Users\mihir\Downloads\NavigationDrawer\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mihir\Downloads\NavigationDrawer\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\mihir\Downloads\NavigationDrawer\app\src\main\AndroidManifest.xml:24:5-38:19
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\mihir\.android\build-cache\1ae0680d4cb02fb891fa1e32141432db0f13d6f1\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\mihir\.android\build-cache\f83cfe1cf3bb41ad4bddf95d4a246070a0ba3287\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\mihir\.android\build-cache\f32b4eabcc1b9c8356c64cc6897fd5768db1b695\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\mihir\.android\build-cache\6f2d7416b2b3a1539807a9b02c6d6cf60d344ef6\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\mihir\.android\build-cache\2d7093c546c0aef91169d414df973e7c732bb4f1\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\mihir\.android\build-cache\50d982552e2f4c02fffbfe6beee5f90a91eedb0e\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\mihir\Downloads\NavigationDrawer\app\src\main\AndroidManifest.xml:25:9-41
+	android:icon
+		ADDED from C:\Users\mihir\Downloads\NavigationDrawer\app\src\main\AndroidManifest.xml:26:9-45
+	android:theme
+		ADDED from C:\Users\mihir\Downloads\NavigationDrawer\app\src\main\AndroidManifest.xml:27:9-70
+activity#com.example.android.navigationdrawerexample.MainActivity
+ADDED from C:\Users\mihir\Downloads\NavigationDrawer\app\src\main\AndroidManifest.xml:29:9-36:20
+	android:label
+		ADDED from C:\Users\mihir\Downloads\NavigationDrawer\app\src\main\AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from C:\Users\mihir\Downloads\NavigationDrawer\app\src\main\AndroidManifest.xml:30:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\mihir\Downloads\NavigationDrawer\app\src\main\AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\mihir\Downloads\NavigationDrawer\app\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from C:\Users\mihir\Downloads\NavigationDrawer\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\mihir\Downloads\NavigationDrawer\app\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from C:\Users\mihir\Downloads\NavigationDrawer\app\src\main\AndroidManifest.xml:34:27-74
